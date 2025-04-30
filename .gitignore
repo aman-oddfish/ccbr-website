@@ -14,7 +14,6 @@ yarn-error.log
 # Next.js
 .next/
 out/
-ccbr-nextjs/
 
 # Production
 build/
