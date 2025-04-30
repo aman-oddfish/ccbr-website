@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[Central Coast Business Review RSS]]></title>
+    <link>https://www.ccbusinessreview.com.au/</link>
+    <description><![CDATA[Central Coast Business Review RSS]]></description>
+    <pubDate>Mon, 07 Apr 2025 07:26:04 +0000</pubDate>
+    <managingEditor>edgaradams@ccbusinessreview.com.au (Central Coast Business Review)</managingEditor>
+    <generator>Central Coast Business Review</generator>
+    <language>en</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.ccbusinessreview.com.au/"/>
+  </channel>
+</rss>
